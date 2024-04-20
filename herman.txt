@@ -1,0 +1,2 @@
+herman created a directory from git bash
+it worked same way as we created in windows or not ?
